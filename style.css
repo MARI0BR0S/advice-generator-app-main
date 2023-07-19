@@ -97,4 +97,9 @@ body {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+.attribution h1 {
+  font-size: 1rem;
+  color: hsl(0, 0%, 100%);
 }/*# sourceMappingURL=style.css.map */

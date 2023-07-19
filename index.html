@@ -16,21 +16,27 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <section class="container">
-      <p class="advice__number">Advice # <span class="advice__id"></span></p>
+    <section class="container" role="main">
+      <h2 class="advice__number">Advice # <span class="advice__id"></span></h2>
       <p class="advice__quote"><span class="advice__text"></span></p>
-      <div class="advice__image">
+      <div class="advice__image" role="img">
         <img src="images/pattern-divider-mobile.svg" alt="" />
       </div>
 
-      <button class="advice__button"></button>
+      <button
+        class="advice__button"
+        title="Advice generate"
+        role="button"
+      ></button>
     </section>
 
-    <div class="attribution">
-      Challenge by
-      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-        >Frontend Mentor</a
-      >. Coded by <a href="https://github.com/MARI0BR0S">M4RI0BR0S</a>.
+    <div class="attribution" role="contentinfo">
+      <h1>
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="https://github.com/MARI0BR0S">M4RI0BR0S</a>.
+      </h1>
     </div>
     <script src="app.js"></script>
   </body>
