@@ -6,8 +6,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [The challenge](#the-challenge)
 - [Links](#links)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Screenshot](#screenshot)
+  **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -19,10 +19,12 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
+![](./screenshot.jpg)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+- Live Site URL: [Add live site URL here](https://mari0br0s.github.io/advice-generator-app-main/)
 
 ### Built with
 
